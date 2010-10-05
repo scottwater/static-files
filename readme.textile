@@ -1,0 +1,4 @@
+h1. Nothing To See Here. :)
+
+This is a repository containing some static site files I use (likely for "scottw.com":http://scottw.com) using "DryDrop":http://drydrop.binaryage.com. 
+
